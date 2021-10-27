@@ -3,7 +3,7 @@
 let dogs=[]
 
 dogs.push({name:"Fluffy",Breed:"Poodle",picture:""})
-dogs.push({name:"Otto",Breed:"Chiwowa",picture:""})
+dogs.push({name:"Otto",Breed:"Chihuahua",picture:""})
 dogs.push({name:"Alfie",Breed:"French Bulldog",picture:""})
 
 //6 dogs - on 300*400 pixel cards (with nice padding and margins, and a nice background colour)
